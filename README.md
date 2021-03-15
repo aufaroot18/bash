@@ -2,6 +2,11 @@ Modul Bash Programming.
 
 Repositori ini berisi slide dan code.
 
+## Pertemuan 1
+
+- Slide: [Introduction](https://aufaroot18.github.io/bash/Pertemuan%201/Slide/Introduction.pdf)
+- Code: [Introduction](https://github.com/aufaroot18/bash/tree/main/Pertemuan%201/Code)
+
 ## Pertemuan 4
 
 - Slide: [Redirection & Pipe](https://aufaroot18.github.io/bash/Pertemuan%204/Slide/Redirection%20%26%20Pipe.pdf)
