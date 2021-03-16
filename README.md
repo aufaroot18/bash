@@ -7,6 +7,11 @@ Repositori ini berisi slide dan code.
 - Slide: [Introduction](https://aufaroot18.github.io/bash/Pertemuan%201/Slide/Introduction.pdf)
 - Code: [Introduction](https://github.com/aufaroot18/bash/tree/main/Pertemuan%201/Code)
 
+## Pertemuan 2
+
+- Slide: [Variable & Array](https://aufaroot18.github.io/bash/Pertemuan%202/Slide/Variable%20%26%20Array.pdf)
+- Code: [Variable & Array](https://github.com/aufaroot18/bash/tree/main/Pertemuan%202/Code)
+
 ## Pertemuan 4
 
 - Slide: [Redirection & Pipe](https://aufaroot18.github.io/bash/Pertemuan%204/Slide/Redirection%20%26%20Pipe.pdf)
